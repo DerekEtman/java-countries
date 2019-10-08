@@ -1,0 +1,11 @@
+localhost:2018/data/allcountries
+Return all countries alphabetically
+
+Surf to localhost:2018/data/names/start/{letter}
+return the countries alphabetically that begin with the given letter
+
+Surf to localhost:2018/data/names/size/{number}
+Return the countries alphabetically that have a name equal to or longer than the given length
+
+//    Surf to localhost:2018/data/population/size/{people}
+//    return the countries that have a population equal to or greater than the given population
